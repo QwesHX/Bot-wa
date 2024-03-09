@@ -22,25 +22,25 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.ownernomer = "6282239042679" //ur owner number2
-global.ownername = "Fadel Muhammad" //ur owner name
-global.ytname = "IG: del_fadelmuh07" //ur yt chanel name
-global.socialm = "GitHub: KenzoXploit" //ur github or insta name
+global.ownernomer = "6283807449268" //ur owner number2
+global.ownername = "ZasXCar" //ur owner name
+global.ytname = "IG: zasxcata" //ur yt chanel name
+global.socialm = "GitHub: QwesHX" //ur github or insta name
 global.location = "Indonesia, Sulawesi Selatan, Palopo" //ur location
 
 //new
-global.botname = "Delci-Botz MD"
-global.ownernumber = '6282239042679'
-global.ownername = 'Fadel Muhammad'
-global.ownerNumber = ["6282239042679@s.whatsapp.net"]
-global.ownerweb = "https://instagram.com/del_fadelmuh07"
-global.websitex = "https://instagram.com/del_fadelmuh07"
+global.botname = "ZasX-Botz MD"
+global.ownernumber = '6283807449268'
+global.ownername = 'ZasXCar'
+global.ownerNumber = ["6283807449268@s.whatsapp.net"]
+global.ownerweb = "https://instagram.com/zasxcata"
+global.websitex = "https://api.allkom.my.id"
 global.wagc = "https://chat.whatsapp.com/KguOo9XsRTW2iESYuHzVX1"
-global.themeemoji = '🦄'
-global.wm = "Delci Botz Inc."
-global.botscript = 'https://wa.me/6282239042679' //script link
+global.themeemoji = '👾'
+global.wm = "ZasX Botz Inc."
+global.botscript = 'https://wa.me/6283807449268' //script link
 global.packname = "Sticker By"
-global.author = "Fadel Muhammad"
+global.author = "ZasXCar"
 global.creator = "6282239042679@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'

@@ -26,7 +26,7 @@ global.ownernomer = "6283807449268" //ur owner number2
 global.ownername = "ZasXCar" //ur owner name
 global.ytname = "IG: zasxcata" //ur yt chanel name
 global.socialm = "GitHub: QwesHX" //ur github or insta name
-global.location = "Indonesia, Sulawesi Selatan, Palopo" //ur location
+global.location = "Indonesia, Banten, Tangerang Selatan" //ur location
 
 //new
 global.botname = "ZasX-Botz MD"
